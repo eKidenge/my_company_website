@@ -53,7 +53,8 @@ const HeroSection = () => {
               <div className="text-slate-400 font-semibold text-lg">Amazon</div>
               <div className="text-slate-400 font-semibold text-lg">Facebook</div>
               <div className="text-slate-400 font-semibold text-lg">Twitter</div>
-              <div className="text-slate-400 font-semibold text-lg">i-innovate_Quantum_Innovation_Hub_Consultancy_Ltd</div>
+              <div className="text-slate-400 font-semibold text-lg">i-innovate Quantum Innovation Hub Consultancy
+Ltd</div>
             </div>
           </div>
         </div>
