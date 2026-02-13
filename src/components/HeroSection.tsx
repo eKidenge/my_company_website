@@ -49,11 +49,11 @@ const HeroSection = () => {
           <div className="mt-16">
             <p className="text-sm text-slate-400 mb-6">Trusted by leading companies</p>
             <div className="flex flex-wrap justify-center gap-8 md:gap-12">
-              <div className="text-slate-400 font-semibold text-lg">Company A</div>
-              <div className="text-slate-400 font-semibold text-lg">Company B</div>
-              <div className="text-slate-400 font-semibold text-lg">Company C</div>
-              <div className="text-slate-400 font-semibold text-lg">Company D</div>
-              <div className="text-slate-400 font-semibold text-lg">Company E</div>
+              <div className="text-slate-400 font-semibold text-lg">Qinex Kenya</div>
+              <div className="text-slate-400 font-semibold text-lg">Amazon</div>
+              <div className="text-slate-400 font-semibold text-lg">Facebook</div>
+              <div className="text-slate-400 font-semibold text-lg">Twitter</div>
+              <div className="text-slate-400 font-semibold text-lg">i-innovate_Quantum_Innovation_Hub_Consultancy_Ltd</div>
             </div>
           </div>
         </div>
